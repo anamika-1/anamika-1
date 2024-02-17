@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Front End Development<br>🌱 I’m currently learning WEB<br><br><br>
+🔭 I’m currently working on Front End Development
 
 
 # 💻 Tech Stack:
